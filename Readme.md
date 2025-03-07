@@ -207,6 +207,4 @@ Le script fonctionne avec une boucle principale qui affiche un menu général et
 
 Le script tourne en boucle jusqu’à ce que l’utilisateur choisisse explicitement l’option "Quitter" (option 4) ou force l’arrêt avec Ctrl + C.
 
-## <u> Cockpit :</u>
 
-![Texte alternatif](cp.png)
